@@ -1,6 +1,5 @@
-# Blog Front-End
+# Hangman-Game
 
-The front-end of the blog application, built with React, offers a seamless and interactive user experience. 
-It allows users to browse, read, and manage blog posts with features such as post creation, editing, and deletion. U
-sers can search and filter content, and the application is integrated with Google authentication to ensure secure and easy access. I
-t communicates with a Node.js server for the back-end and PostgreSQL for the database.
+Hangman game based on list of words from a text file. A final project written in basic python - self.py course (campusIL).
+Create a text file with list of words seperated by space (cat dog mom baloon child hangman). Save it and enter the file path into the game.
+Enjoy! :-)
